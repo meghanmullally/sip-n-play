@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    margin-top: auto;
+    padding: 16px 0;
+    text-align: center;
+}
+
+.footer-icons {
+    margin-bottom: 8px;
+}
+
+.footer-contact {
+    margin: 8px;
+    padding: 4px 0;
+}
