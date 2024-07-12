@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=PT%20Sans%20Caption:700|Anek%20Bangla:400');
+
+#navBar {
+    background-color: rgb(251, 251, 249);
+    color: rgb(23, 24, 17);
+    margin-right: 2rem;
+    font-family: 'Anek Bangla', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.3rem;
+    text-decoration: none;
+}
+
+#navBar img {
+    width: 100px;
+    height: auto;
+    margin-right: 1rem;
+}
+
+#navBar .MuiTypography-root {
+    margin-right: 2rem;
+    text-decoration: none;
+    color: inherit;
+}
+
+#navBar .MuiButton-root {
+    margin: 0 8px;
+    color: rgb(23, 24, 17);
+}
+
+#navBar .MuiIconButton-root {
+    color: inherit;
+}
+
+#navBar .MuiIconButton-root:hover {
+    background-color: transparent;
+}
+
+#navBar #menu-appbar {
+    background-color: rgb(251, 251, 249);
+    color: rgb(23, 24, 17);
+}
+
+#navBar #menu-appbar .MuiMenuItem-root {
+    color: rgb(23, 24, 17);
+}
